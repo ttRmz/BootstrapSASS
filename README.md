@@ -10,13 +10,13 @@
 ```
 ## Bootstrap SASS using Bower & Gulp
 
-### Installation :
+#### Installation :
 
 1. ```bower install``` 
 2. ```npm install```
 3. ```gulp prod```
 
-### Usage :
+#### Usage :
 While editing into the ```sass``` folder :
 + install <a href="http://livereload.com/">live reload</a> and use ```gulp watch```
 

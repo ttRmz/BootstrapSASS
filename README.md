@@ -15,3 +15,12 @@
 1. ```bower install``` 
 2. ```npm install```
 3. ```gulp prod```
+
+### Usage :
+While editing into the ```sass``` folder :
++ install <a href="http://livereload.com/">live reload</a> and use ```gulp watch```
+
+After making changes into the ```views``` folder :
++ use ```gulp prod```
+
+Enjoy !

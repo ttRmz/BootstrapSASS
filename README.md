@@ -16,6 +16,8 @@
 2. ```npm install```
 3. ```gulp prod```
 
+NB : You will need to install <a href="https://nodejs.org/en/">Node.js</a>
+
 #### Usage :
 While editing into the ```sass``` folder :
 + install <a href="http://livereload.com/">live reload</a> and use ```gulp watch```

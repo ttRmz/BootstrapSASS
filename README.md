@@ -8,22 +8,22 @@
                                                   | |                                           
                                                   |_|                                           
 ```
-## Bootstrap SASS using Bower & Gulp
+## Bootstrap SASS using Bower & Gulp (on Win)
 
 #### Installation :
 
-1. ```bower install``` 
-2. ```npm install```
-3. ```gulp prod```
+1. run ```npm install```
+2. run ```bower install```
+3. run ```gulp prod```
 
 NB : You will need to install <a href="https://nodejs.org/en/">Node.js</a>
 
 #### Usage :
 While editing into the ```sass``` folder :
-+ install <a href="http://livereload.com/">live reload</a> and use ```gulp watch```
++ install <a href="http://livereload.com/">live reload</a> and run ```gulp watch```
 + ```Ctrl+C``` to stop ```gulp watch``` command
 
 After making changes into the ```views``` folder :
-+ use ```gulp prod```
++ run ```gulp prod```
 
 Enjoy !

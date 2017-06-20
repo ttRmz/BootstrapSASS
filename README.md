@@ -19,11 +19,11 @@
 NB : You will need to install <a href="https://nodejs.org/en/">Node.js</a>
 
 #### Usage :
-While editing into the ```sass``` folder :
-+ install <a href="http://livereload.com/">live reload</a> and run ```gulp watch```
-+ ```Ctrl+C``` to stop ```gulp watch``` command
+While you're editing into the ```Resources``` folder :
++ run ```gulp watch_all``` to auto-compile on save
++ ```Ctrl+C``` to stop watching
 
-After making changes into the ```views``` folder :
-+ run ```gulp prod```
+If you created new files into the ```sass``` or ```views``` folder :
++ run ```gulp prod``` to duplicate these into the ```web``` folder
 
 Enjoy !

@@ -10,14 +10,6 @@
 ```
 ## Bootstrap SASS using Bower & Gulp (on Win)
 
-#### Installation :
-
-1. run ```npm install```
-2. run ```bower install```
-3. run ```gulp prod```
-
-NB : You will need to install <a href="https://nodejs.org/en/">Node.js</a>
-
 #### Usage :
 While you're editing into the ```Resources``` folder :
 + run ```gulp watch_all``` to auto-compile on save
